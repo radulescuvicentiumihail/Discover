@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "846302477408",
+    "firebase_url": "https://discovernature-152010.firebaseio.com",
+    "project_id": "discovernature-152010",
+    "storage_bucket": "discovernature-152010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846302477408:android:d131dc07acf1ff8a",
+        "android_client_info": {
+          "package_name": "com.mb.discovernature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846302477408-n1kt6e2f8mjet85qcnvdgkbpf1or9act.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mb.discovernature",
+            "certificate_hash": "11A83B1DAF7A42B99DD9FA3382FEE03E0724F6AF"
+          }
+        },
+        {
+          "client_id": "846302477408-hbqtj6m38salqbaron74aactq29asls5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXYBSQlmVXrH4Fyh5JTJLR9j7fRlU-SI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846302477408-hbqtj6m38salqbaron74aactq29asls5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

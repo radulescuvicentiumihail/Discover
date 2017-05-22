@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DiscoverNature</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="create_account">Don\'t have acount? Click here to sign up.</string>
+
+    <string name="sign_up">Create Account</string>
+    <string name="name">Name</string>
+    <string name="label_born_date">Date of birth</string>
+    <string name="label_sex">Sex</string>
+    <string name="label_postalcode">Postcode</string>
+    <string name="label_retype_password">Retype Password</string>
+    <string name="label_password">Password</string>
+    <string name="tx_ck_register"> I agree to the terms of use</string>
+    <string name="label_login">Login</string>
+    <string name="label_forgot_password">Forgot password?</string>
+    <string name="prompt_nickname">Nickname</string>
+    <string name="prompt_retype_password">Retype password</string>
+    <string name="app_sub_title">FInd your path</string>
+</resources>
